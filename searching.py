@@ -1,4 +1,5 @@
-
+#nama kelompok
+#baiq asna,ahmad daman huri, lizainatul aulia,lina parhiani,anggi hartwadi
 
 #========================code 1=========================
 # "mencari data transaksi penjualan berdasarkan harga produk"
